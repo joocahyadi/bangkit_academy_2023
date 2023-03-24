@@ -1,6 +1,6 @@
 # Mathematics for Machine Learning Specialization
 
-<p align="center"><img="/img/Mathematics for Machine Learning Specialization.jiff"></p>
+<p align="center"><img src="https://github.com/joocahyadi/bangkit_academy_2023/blob/main/img/Mathematics%20for%20Machine%20Learning%20Specialization.jfif"></p>
 
 ## Offered by: Imperial College London
 
